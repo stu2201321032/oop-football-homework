@@ -1,0 +1,15 @@
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\bin\Debug\net7.0\oop-homework.exe
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\bin\Debug\net7.0\oop-homework.deps.json
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\bin\Debug\net7.0\oop-homework.runtimeconfig.json
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\bin\Debug\net7.0\oop-homework.dll
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\bin\Debug\net7.0\oop-homework.pdb
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\obj\Debug\net7.0\oop-homework.csproj.AssemblyReference.cache
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\obj\Debug\net7.0\oop-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\obj\Debug\net7.0\oop-homework.AssemblyInfoInputs.cache
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\obj\Debug\net7.0\oop-homework.AssemblyInfo.cs
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\obj\Debug\net7.0\oop-homework.csproj.CoreCompileInputs.cache
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\obj\Debug\net7.0\oop-homework.dll
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\obj\Debug\net7.0\refint\oop-homework.dll
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\obj\Debug\net7.0\oop-homework.pdb
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\obj\Debug\net7.0\oop-homework.genruntimeconfig.cache
+C:\Users\AntoanRomanov\source\repos\oop-homework\oop-homework\obj\Debug\net7.0\ref\oop-homework.dll
